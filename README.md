@@ -1,6 +1,6 @@
 # AssignmentOnPandas
 
-This code below solves the assignment on Pandas
+Assignment on Pandas
 
 data = data.csv
 
